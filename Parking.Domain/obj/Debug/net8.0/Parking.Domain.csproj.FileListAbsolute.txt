@@ -1,0 +1,11 @@
+C:\Projects\Tests\Parking\src\Parking.Domain\bin\Debug\net8.0\Parking.Domain.deps.json
+C:\Projects\Tests\Parking\src\Parking.Domain\bin\Debug\net8.0\Parking.Domain.dll
+C:\Projects\Tests\Parking\src\Parking.Domain\bin\Debug\net8.0\Parking.Domain.pdb
+C:\Projects\Tests\Parking\src\Parking.Domain\obj\Debug\net8.0\Parking.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Tests\Parking\src\Parking.Domain\obj\Debug\net8.0\Parking.Domain.AssemblyInfoInputs.cache
+C:\Projects\Tests\Parking\src\Parking.Domain\obj\Debug\net8.0\Parking.Domain.AssemblyInfo.cs
+C:\Projects\Tests\Parking\src\Parking.Domain\obj\Debug\net8.0\Parking.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\Tests\Parking\src\Parking.Domain\obj\Debug\net8.0\Parking.Domain.dll
+C:\Projects\Tests\Parking\src\Parking.Domain\obj\Debug\net8.0\refint\Parking.Domain.dll
+C:\Projects\Tests\Parking\src\Parking.Domain\obj\Debug\net8.0\Parking.Domain.pdb
+C:\Projects\Tests\Parking\src\Parking.Domain\obj\Debug\net8.0\ref\Parking.Domain.dll
